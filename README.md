@@ -60,7 +60,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
   
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-Khot&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=sakharer096-del&show_icons=true&theme=radical)
 
 ![](https://streak-stats.demolab.com?user=Abhishek-Khot&theme=radical)
 
