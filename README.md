@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="coding">  
 </div>
 
-<h1 align="center">Hi 👋, I'm Abhishek Khot</h1>
+<h1 align="center">Hi 👋, I'm Rahul Sakhare</h1>
 
 <h3 align="center">A passionate Full stack web developer from India. </h3>
 
@@ -20,7 +20,7 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=khotabhishek15@gmail.com" style="text-decoration: none;">Email</a>
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=sakharer096@gmail.com" style="text-decoration: none;">Email</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -78,11 +78,11 @@ src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h4> 📬 Reach me out </h4>
 <p align="left">
-<a href = "https://www.linkedin.com/in/abhishek-r-khot-b42025260/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/rahul-sakhare-bb398b285/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/Khot_Abhishek_3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abhishek_khot_03/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/rahul_sakhare7788"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.geeksforgeeks.org/user/rollno1"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
-<a href = "https://leetcode.com/TheRollno1"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem"width="50rem"><a>
+<a href = "https://leetcode.com/u/AmazonPractise/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem"width="50rem"><a>
 </p>
 
 <p align="left">
